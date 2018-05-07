@@ -68,6 +68,3 @@ class Time {
     return date;
   }
 }
-
-let time = new Time();
-console.log(time.toDateString())

@@ -6,14 +6,14 @@ clone or download this repository
 
 move it in your projekt directory
 
-add file in your .html file 
+add file in your .html file
 
 ```
 <script src="./timesgoesby.js"></script>
 ```
 now you can use it in your javascript code
 
-exampels
+##Exampels
 ```
 let time = new Time(/*optional timezone: +2*/);
 
@@ -41,6 +41,3 @@ console.log(":", true)
 * ` rawHours, rawMinutes, rawSeconds` (returns int, without filling zeros)
 * ` sHours, sMinutes, sSeconds` (returns String)
 * ` sRawHours, sRawMinutes, sRawSeconds` (returns String, without filling zeros)
-
-
-
