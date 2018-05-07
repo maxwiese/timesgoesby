@@ -13,7 +13,7 @@ add file in your .html file
 ```
 now you can use it in your javascript code
 
-##Exampels
+## Exampels
 ```
 let time = new Time(/*optional timezone: +2*/);
 
